@@ -47,7 +47,7 @@ Once your Affiliate Partner application has been approved, you'll have the oppor
 
 To get started with building your affiliate site, follow these steps:
 
-1. **Access the Affiliate Site Code**: The code for your affiliate site is located in the `index.html` file within the `index.html` folder of [this GitHub repository](https://github.com/Iederees-Francis/Deriv).
+1. **Access the Affiliate Site Code**: The code for your affiliate site is located in the `index.html` file within the `index.html` folder of [this GitHub repository](https://github.com/Zahraiskind/tradershub).
 
 2. **Customize Affiliate Links**: Open the `index.html` file and replace the existing affiliate links with your unique affiliate tracking links. These links are provided by our Affiliate Partner program and are associated with your account.
 
@@ -57,7 +57,7 @@ To get started with building your affiliate site, follow these steps:
 
 5. **Publish Your Site**: Once you're satisfied with your affiliate site, you can host it on your preferred web hosting service. You can also explore free hosting options if you're just getting started. you can use github pages like i do.
 
-If you encounter any difficulties while customizing the code or need assistance with building your affiliate site, don't hesitate to reach out for help. You can connect with me on [LinkedIn](https://www.linkedin.com/in/iederees-franics-973879228/) and I'll be more than happy to assist you.
+If you encounter any difficulties while customizing the code or need assistance with building your affiliate site, don't hesitate to reach out for help. You can connect with me on [LinkedIn](https://www.linkedin.com/in/zahra-ahmed-a14284287/) and I'll be more than happy to assist you.
 
 Building and promoting your affiliate site is an exciting opportunity to maximize your earnings and expand your reach as an Affiliate Partner. Im here to support you every step of the way!
 
